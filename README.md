@@ -9,5 +9,5 @@ Bu bot avtomatik ravishda:
 
 ### 1. GitHub repo tayyorlash
 ```bash
-git clone https://github.com/USERNAME/telegram-auto-channel-bot.git
+git clone https://github.com/Xayrullo-Akramov/telegram-auto-channel-bot.git
 cd telegram-auto-channel-bot
